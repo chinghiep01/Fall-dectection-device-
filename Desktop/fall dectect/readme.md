@@ -1,11 +1,10 @@
 # Fall detection device 
 
+## Introduction: 
 
-## Introduction 
+## Aim :
 
-## Aim 
-
-## Result 
+## Result :
 
 
 ## Link to demo :
