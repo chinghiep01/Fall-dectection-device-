@@ -28,8 +28,7 @@ Accidental falls are dangerous for elderly people  and could cause injuries that
 
 
 ## Link to demo :
-https://github.com/chinghiep01/Fall-dectection-device-/blob/main/Desktop/fall%20dectect/code.md
-
+https://github.com/chinghiep01/Fall-dectection-device-/blob/main/code.md
 
 
 
